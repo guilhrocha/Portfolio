@@ -13,6 +13,10 @@ body {
     font-family: 'Lato';
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 header {
     background-image: linear-gradient(90deg, #2a3535, #091316);
     background-color: black;
